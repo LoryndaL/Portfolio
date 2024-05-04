@@ -1,3 +1,4 @@
-Voici mon portfolio
-Téléchargez les dossiers CSS et IMG ainsi que portfolio.html et mettez les dans un même dossier.
+Voici mon portfolio,
+Pour pouvoir le visionner : Ouvrez votre invite de commandes et cloner ce répertoire à travers la commande : 
+'git clone https://github.com/LoryndaL/Portfolio'. \n
 Bonne visite ;)
