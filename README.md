@@ -1,1 +1,3 @@
-Voici mon portfolio: Télécharger les dossiers CSS et IMG ainsi que html et mettez les dans un même dossier. Bonne visite ;)
+Voici mon portfolio
+Téléchargez les dossiers CSS et IMG ainsi que portfolio.html et mettez les dans un même dossier.
+Bonne visite ;)
